@@ -1,0 +1,6 @@
+dist
+public
+.local
+.env
+node_modules
+*-lock.*
